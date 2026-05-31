@@ -26,29 +26,30 @@ redirect_from:
 [![1st Prize · Tencent Competition Domestic Finals](https://img.shields.io/badge/%F0%9F%8F%86_1st_Prize-Tencent_Competition_Domestic_Finals-gold)](https://tencentarena.com/aiarena/zh/match/open-competition-2024?tab=score)
 
 # 🔥 <span class="lang-en">News</span><span class="lang-zh">最新动态</span> {#news}
-- *2026.04*: <span class="lang-en">🎉🎉 **AutoJudger** is accepted by **ACL 2026 (Main Conference)**!</span><span class="lang-zh">🎉🎉 **AutoJudger** 被 **ACL 2026 主会** 录用！</span>
-- *2026.04*: <span class="lang-en">🎉 **[EVPO](https://arxiv.org/abs/2604.19485)** is released on arXiv.</span><span class="lang-zh">🎉 **[EVPO](https://arxiv.org/abs/2604.19485)** 已在 arXiv 发布。</span>
 - *2026.04*: <span class="lang-en">🎉 **[Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)** is released on arXiv.</span><span class="lang-zh">🎉 **[Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)** 已在 arXiv 发布。</span>
+- *2026.04*: <span class="lang-en">🎉 **[EVPO](https://arxiv.org/abs/2604.19485)** is released on arXiv.</span><span class="lang-zh">🎉 **[EVPO](https://arxiv.org/abs/2604.19485)** 已在 arXiv 发布。</span>
+- *2026.04*: <span class="lang-en">🎉🎉 **AutoJudger** is accepted by **ACL 2026 (Main Conference)**!</span><span class="lang-zh">🎉🎉 **AutoJudger** 被 **ACL 2026 主会** 录用！</span>
 - *2026.02*: <span class="lang-en">🎉 **[AgentCPM-Explore](https://arxiv.org/abs/2602.06485)** is released on arXiv.</span><span class="lang-zh">🎉 **[AgentCPM-Explore](https://arxiv.org/abs/2602.06485)** 已在 arXiv 发布。</span>
 
 # 💻 <span class="lang-en">Internships</span><span class="lang-zh">实习经历</span> {#internships}
-- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/nexagi.png" alt="NEX-AGI" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2026.1 - Present** · Algorithm Researcher, **NEX-AGI** (Shanghai Qiji Zhifeng Co., Ltd.), Shanghai</span><span class="lang-zh">**2026.1 - 至今** · 算法研究员，**NEX-AGI（上海奇绩智峰）**，上海</span></span><br><span class="lang-en">*Self-evolution of LLMs and multi-agent systems.*</span><span class="lang-zh">*大语言模型的自演化与多智能体方向。*</span>
-- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/thunlp.png" alt="THUNLP" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2025.10 - 2026.01** · Research Intern, **THUNLP, Tsinghua University** (advised by Prof. Zhiyuan Liu), Beijing</span><span class="lang-zh">**2025.10 - 2026.01** · 研究实习生，**清华大学 THUNLP**（导师：刘知远副教授），北京</span></span><br><span class="lang-en">*AgentCPM-Explore model development; improving RL algorithms for LLMs in multi-turn tool-use settings.*</span><span class="lang-zh">*AgentCPM-Explore模型研发，面向多轮工具学习场景的大模型强化学习算法改进。*</span>
-- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/huajun.png" alt="Huajun Guanghui" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2025.03 - 2025.07** · Quantitative Researcher, **Huajun Guanghui**, Shanghai</span><span class="lang-zh">**2025.03 - 2025.07** · 量化研究员，**华钧广汇**，上海</span></span><br><span class="lang-en">*Intraday quantitative strategies for index futures and options, and high-frequency factor mining.*</span><span class="lang-zh">*股指期货期权日内量化策略与高频因子挖掘。*</span>
-- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/zhanhong.png" alt="Zhanhong Investment" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2024.07 - 2024.11** · Quantitative Researcher, **Zhanhong Investment**, Shanghai</span><span class="lang-zh">**2024.07 - 2024.11** · 量化研究员，**展弘投资**，上海</span></span><br><span class="lang-en">*Intraday quantitative trading strategies for commodity and index futures.*</span><span class="lang-zh">*商品期货/股指期货的日内量化交易策略。*</span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/nexagi.png" alt="NEX-AGI" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2026.1 - Present** · Algorithm Researcher, **NEX-AGI** (Shanghai Qiji Zhifeng Co., Ltd.), Shanghai</span><span class="lang-zh">**2026.1 - 至今** · 大模型算法研究，**NEX-AGI（上海奇绩智峰）**，上海</span></span><br><span class="lang-en">*Self-evolution of LLMs and multi-agent systems.*</span><span class="lang-zh">*大语言模型的自演化与多智能体方向。*</span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/thunlp.png" alt="THUNLP" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2025.10 - 2026.01** · Research Intern, **THUNLP, Tsinghua University** (advised by Prof. Zhiyuan Liu), Beijing</span><span class="lang-zh">**2025.10 - 2026.01** · 大模型算法研究，**清华大学 THUNLP**（导师：刘知远副教授），北京</span></span><br><span class="lang-en">*AgentCPM-Explore model development; improving RL algorithms for LLMs in multi-turn tool-use settings.*</span><span class="lang-zh">*AgentCPM-Explore模型研发，面向多轮工具学习场景的大模型强化学习算法改进。*</span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/huajun.png" alt="Huajun Guanghui" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2025.03 - 2025.07** · Quantitative Researcher, **Huajun Guanghui**, Shanghai</span><span class="lang-zh">**2025.03 - 2025.07** · 量化策略研究，**华钧广汇**，上海</span></span><br><span class="lang-en">*Intraday quantitative strategies for index futures and options, and high-frequency factor mining.*</span><span class="lang-zh">*股指期货期权日内量化策略与高频因子挖掘。*</span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="images/logos/zhanhong.png" alt="Zhanhong Investment" style="max-width: 160px; max-height: 50px;" onerror="this.parentElement.style.display='none'"></span><span style="display: inline-block; vertical-align: middle;"><span class="lang-en">**2024.07 - 2024.11** · Quantitative Researcher, **Zhanhong Investment**, Shanghai</span><span class="lang-zh">**2024.07 - 2024.11** · 量化策略研究，**展弘投资**，上海</span></span><br><span class="lang-en">*Intraday quantitative trading strategies for commodity and index futures.*</span><span class="lang-zh">*商品期货/股指期货的日内量化交易策略。*</span>
 
 
 # 📝 <span class="lang-en">Publications</span><span class="lang-zh">论文发表</span> {#publications}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs
+### Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses
 
-Xuanwen Ding\*, **Chengjun Pan**\*, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
+Jiahang Lin\*, Shichun Liu\*, **Chengjun Pan**\*, Lizhi Lin, Shihan Dou, Xuanjing Huang, Hang Yan, Zhenhua Han<small>†</small>, Tao Gui<small>†</small>
 
-- <span class="lang-en">An agent-driven framework that uses Item Response Theory (IRT) to model item difficulty and model ability, adaptively selecting a small subset of benchmark items to match full-benchmark evaluation of MLLMs at a fraction of the cost.</span><span class="lang-zh">一个由智能体驱动的框架，利用项目反应理论（IRT）建模试题难度与模型能力，动态选取少量评测题目，即可以极低成本达到媲美全量评测的多模态大模型评估效果。</span>
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2505.21389) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/IMNearth/AutoJudger)
+- <span class="lang-en">AHE is an observability stack for the automatic optimization of coding-agent harnesses, with three pillars: component observability (NexAU), experience observability (Agent Debugger), and decision observability (evidence-driven Evolve Agent).</span><span class="lang-zh">AHE 是一套用于自动优化编码智能体 harness 的可观测性体系，包含三大支柱：组件可观测性（NexAU）、经验可观测性（Agent Debugger）以及决策可观测性（基于证据的 Evolve Agent）。</span>
+- <span class="lang-en">Without changing the model, AHE pushes Terminal-bench 2 from 69.7% to 77.0% across iterations, with strong cross-task and cross-model generalization.</span><span class="lang-zh">在不改动模型的前提下，AHE 通过多轮迭代将 Terminal-bench 2 从 69.7% 提升至 77.0%，并展现出强的跨任务、跨模型泛化能力。</span>
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.25850) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/china-qijizhifeng/agentic-harness-engineering)
 
 </div>
 </div>
@@ -69,16 +70,15 @@ Xuanwen Ding\*, **Chengjun Pan**\*, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses
+### AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs
 
-Jiahang Lin\*, Shichun Liu\*, **Chengjun Pan**\*, Lizhi Lin, Shihan Dou, Xuanjing Huang, Hang Yan, Zhenhua Han<small>†</small>, Tao Gui<small>†</small>
+Xuanwen Ding\*, **Chengjun Pan**\*, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
 
-- <span class="lang-en">AHE is an observability stack for the automatic optimization of coding-agent harnesses, with three pillars: component observability (NexAU), experience observability (Agent Debugger), and decision observability (evidence-driven Evolve Agent).</span><span class="lang-zh">AHE 是一套用于自动优化编码智能体 harness 的可观测性体系，包含三大支柱：组件可观测性（NexAU）、经验可观测性（Agent Debugger）以及决策可观测性（基于证据的 Evolve Agent）。</span>
-- <span class="lang-en">Without changing the model, AHE pushes Terminal-bench 2 from 69.7% to 77.0% across iterations, with strong cross-task and cross-model generalization.</span><span class="lang-zh">在不改动模型的前提下，AHE 通过多轮迭代将 Terminal-bench 2 从 69.7% 提升至 77.0%，并展现出强的跨任务、跨模型泛化能力。</span>
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.25850) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/china-qijizhifeng/agentic-harness-engineering)
+- <span class="lang-en">An agent-driven framework that uses Item Response Theory (IRT) to model item difficulty and model ability, adaptively selecting a small subset of benchmark items to match full-benchmark evaluation of MLLMs at a fraction of the cost.</span><span class="lang-zh">一个由智能体驱动的框架，利用项目反应理论（IRT）建模试题难度与模型能力，动态选取少量评测题目，即可以极低成本达到媲美全量评测的多模态大模型评估效果。</span>
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2505.21389) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/IMNearth/AutoJudger)
 
 </div>
 </div>
