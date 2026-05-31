@@ -103,7 +103,7 @@ Heyang Chen, Xin Cong, ..., **Chengjun Pan**, et al.
 
 ### Exploring Systemic Risk Dynamics in the Chinese Stock Market: A Network Analysis with Risk Transmission Index
 
-**Chengjun Pan**, et al.
+Xiaowei Zeng, Yifan Hu, **Chengjun Pan**, Yanxi Hou
 
 - <span class="lang-en">Uses a QR-Lasso model together with network analysis to monitor and assess systemic risk in the Chinese stock market, introducing a Risk Transmission Index to characterize risk emitters and receivers.</span><span class="lang-zh">采用 QR-Lasso 模型结合网络分析，监测并评估中国股市的系统性风险，并提出风险传导指数（Risk Transmission Index）以刻画风险的输出方与接收方。</span>
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.mdpi.com/2227-9091/12/3/56)
