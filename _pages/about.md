@@ -17,42 +17,61 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Chengjun Pan (潘成骏), a master's student at the [Guanghua School of Management](https://www.gsm.pku.edu.cn/), Peking University, majoring in FinTech. I received my B.S. in Artificial Intelligence from the [School of Data Science](https://sds.fudan.edu.cn/), Fudan University, where I ranked 2nd in my major.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on **reinforcement learning for large language models** and **LLM agents**. I am currently working on RL algorithms for multi-turn tool-use settings — mitigating entropy collapse, improving context structure, and boosting training efficiency — advised by Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). I am also interested in efficient and reliable evaluation of (multimodal) LLMs.
 
+Before that, I spent several years in quantitative finance, working on reinforcement learning, CTA / index-futures strategies, and high-frequency factor mining.
+
+<a href='https://scholar.google.com/citations?user=IlKyHdcAAAAJ'>Google Scholar citations <strong><span id='total_cit'>0</span></strong></a> <a href='https://scholar.google.com/citations?user=IlKyHdcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 Our paper *AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs* was accepted to **ACL 2026 (Main Conference)**.
+- *2025.09*: &nbsp;🎓 I started my master's program at the Guanghua School of Management, Peking University, and joined Prof. Zhiyuan Liu's group to work on RL for LLMs.
+- *2025.06*: &nbsp;🎉 I graduated from Fudan University and was named a *Shanghai Outstanding Graduate*.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/abs/2505.21389)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xuanwen Ding\*, **Chengjun Pan\***, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://arxiv.org/abs/2505.21389) <strong><span class='show_paper_citations' data='IlKyHdcAAAAJ:u5HHmVD_uO8C'></span></strong>
+- An agent-driven framework that uses Item Response Theory (IRT) to adaptively select a small subset of benchmark items, matching full-benchmark evaluation of MLLMs at a fraction of the cost. (\*co-first author)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [EVPO: Explained Variance Policy Optimization for Adaptive Critic Utilization in LLM Post-Training](https://arxiv.org/abs/2604.19485), **Chengjun Pan**, Shuaijie Liu, Jian Lin, et al., *arXiv preprint, 2026* <strong><span class='show_paper_citations' data='IlKyHdcAAAAJ:d1gkVwhDpl0C'></span></strong>
+
+- [Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850), Jian Lin, Shuaijie Liu, **Chengjun Pan**, et al., *arXiv preprint, 2026* <strong><span class='show_paper_citations' data='IlKyHdcAAAAJ:9yKSN-GCB0IC'></span></strong>
+
+- [AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents](https://arxiv.org/abs/2602.06485), Heyang Chen, Xin Cong, ..., **Chengjun Pan**, et al., *arXiv preprint, 2026* <strong><span class='show_paper_citations' data='IlKyHdcAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+- Exploring Systemic Risk Dynamics in the Chinese Stock Market: A Network Analysis with Risk Transmission Index, *Risks*, 2024 (accepted)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Shanghai Outstanding Graduate.
+- *2024* 1st Place, Tencent Kaiwu AI Global Open Competition (Mainland China Finals) — RL agent based on PPO, defeating 100+ finalist teams (¥100,000 prize).
+- *2023* National Scholarship (the only recipient in my year within the school).
+- *2022 – 2024* Fudan University Outstanding Student (sole school nominee for the 2023 "Model Student" final defense).
+- *2022 – 2024* Fudan University Sunshine Sports Star.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - present*, M.S. in FinTech, Guanghua School of Management, Peking University, Beijing.
+- *2021.09 - 2025.06*, B.S. in Artificial Intelligence, School of Data Science, Fudan University, Shanghai. GPA 3.72/4 (2nd in major).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🏆 Competitions
+- *2024*, 1st Place — Tencent Kaiwu AI Global Open Competition, Mainland China Finals (RL / PPO game-playing agent).
+- *2023*, National 2nd Prize — China Undergraduate Mathematical Contest in Modeling (CUMCM).
+- *2023*, Shanghai 1st Prize — National Statistical Modeling Competition (QR-Lasso & network analysis of systemic risk).
+- *2022*, Shanghai 1st Prize — China Undergraduate Mathematical Contest in Modeling (CUMCM).
+- *2022*, National 2nd Prize — 14th China Undergraduate Mathematics Competition.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.03 - 2025.07*, Huajun Guanghui — Quantitative Research Intern, Shanghai (index-futures strategies, high-frequency factor mining).
+- *2024.07 - 2024.11*, Zhanhong Investment — Research Assistant, Shanghai (CTA intraday momentum & index-futures breakout strategies, out-of-sample Calmar > 5).
+- *2023.09 - 2024.03*, Jiyou Fund — CTA Quant Strategy Intern, Shanghai (multi-factor strategy framework, regression arbitrage).
+- *2023.06 - 2023.08*, Fosun Prudential Asset Management — Summer Intern, Shanghai (REITs volatility & correlation research).
