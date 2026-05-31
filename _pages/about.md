@@ -49,7 +49,7 @@ Jiahang Lin\*, Shichun Liu\*, **Chengjun Pan**\*, Lizhi Lin, Shihan Dou, Xuanjin
 
 - <span class="lang-en">AHE is an observability stack for the automatic optimization of coding-agent harnesses, with three pillars: component observability (NexAU), experience observability (Agent Debugger), and decision observability (evidence-driven Evolve Agent).</span><span class="lang-zh">AHE 是一套用于自动优化编码智能体 harness 的可观测性体系，包含三大支柱：组件可观测性（NexAU）、经验可观测性（Agent Debugger）以及决策可观测性（基于证据的 Evolve Agent）。</span>
 - <span class="lang-en">Without changing the model, AHE pushes Terminal-bench 2 from 69.7% to 77.0% across iterations, with strong cross-task and cross-model generalization.</span><span class="lang-zh">在不改动模型的前提下，AHE 通过多轮迭代将 Terminal-bench 2 从 69.7% 提升至 77.0%，并展现出强的跨任务、跨模型泛化能力。</span>
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.25850) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/china-qijizhifeng/agentic-harness-engineering)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.25850) \| [![](https://img.shields.io/badge/Blog-fff)](https://dawning-road.github.io/blog/agentic-harness-engineering) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/china-qijizhifeng/agentic-harness-engineering)
 
 </div>
 </div>
