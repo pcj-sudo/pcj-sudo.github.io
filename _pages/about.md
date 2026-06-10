@@ -26,7 +26,7 @@ redirect_from:
 [![1st Prize · Tencent Competition Domestic Finals](https://img.shields.io/badge/%F0%9F%8F%86_1st_Prize-Tencent_Competition_Domestic_Finals-gold)](https://tencentarena.com/aiarena/zh/match/open-competition-2024?tab=score)
 
 # 🔥 <span class="lang-en">News</span><span class="lang-zh">最新动态</span> {#news}
-- *2026.06*: <span class="lang-en">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** ranks **#1** on the **[Terminal-Bench 2.0 leaderboard](https://www.tbench.ai/leaderboard)**!</span><span class="lang-zh">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** 登上 **[Terminal-Bench 2.0 排行榜](https://www.tbench.ai/leaderboard)** 榜首！</span>
+- *2026.06*: <span class="lang-en">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** ranks **#1** on the **[Terminal-Bench 2.0 leaderboard](https://www.tbench.ai/leaderboard/terminal-bench/2.0)**!</span><span class="lang-zh">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** 登上 **[Terminal-Bench 2.0 排行榜](https://www.tbench.ai/leaderboard/terminal-bench/2.0)** 榜首！</span>
 - *2026.04*: <span class="lang-en">🎉 **[Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)** is released on arXiv.</span><span class="lang-zh">🎉 **[Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)** 已在 arXiv 发布。</span>
 - *2026.04*: <span class="lang-en">🎉 **[EVPO](https://arxiv.org/abs/2604.19485)** is released on arXiv.</span><span class="lang-zh">🎉 **[EVPO](https://arxiv.org/abs/2604.19485)** 已在 arXiv 发布。</span>
 - *2026.04*: <span class="lang-en">🎉 **[AutoJudger](https://arxiv.org/abs/2505.21389)** is accepted by **ACL 2026 (Main Conference)**!</span><span class="lang-zh">🎉 **[AutoJudger](https://arxiv.org/abs/2505.21389)** 被 **ACL 2026 主会** 录用！</span>
