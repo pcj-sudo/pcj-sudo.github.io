@@ -48,7 +48,7 @@ redirect_from:
 
 ### IACM-RL: Intent-Aware Context Management and Reinforcement Learning for Complex Tool Invocation under Dynamic Intent Fluctuations
 
-Dingwei Zhu, Jiahan Li, **Chengjun Pan**, et al.
+Dingwei Zhu\*, Jiahan Li\*, **Chengjun Pan**, et al.
 
 - <span class="lang-en">IACM-RL addresses dynamic user-intent fluctuations in long-horizon tool invocation through DynamicIntent, a pipeline covering 13 fine-grained fluctuation scenarios, together with a five-dimensional diagnostic metric suite.</span><span class="lang-zh">IACM-RL 面向长程工具调用中的动态用户意图波动问题，提出覆盖 13 种细粒度波动场景的 DynamicIntent 数据构建流水线，以及一套五维诊断评测指标。</span>
 - <span class="lang-en">A BeliefState-based self-generated context manager tracks shifting goals and isolates stale parameters, while hierarchical intent-driven rewards and auxiliary losses internalize robust state tracking through reinforcement learning.</span><span class="lang-zh">基于 BeliefState 的自生成上下文管理器持续追踪变化的目标并隔离失效参数，同时利用分层意图奖励与辅助损失，通过强化学习将稳健的状态追踪能力内化到模型中。</span>
@@ -92,7 +92,7 @@ Jiahang Lin\*, Shichun Liu\*, **Chengjun Pan**\*, Lizhi Lin, Shihan Dou, Xuanjin
 
 ### AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs
 
-Xuanwen Ding\*, **Chengjun Pan**\*, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
+Xuanwen Ding\*, **Chengjun Pan**\*, Zejun Li\*, Jiwen Zhang\*, Siyuan Wang, Zhongyu Wei
 
 - <span class="lang-en">An agent-driven framework that uses Item Response Theory (IRT) to model item difficulty and model ability, adaptively selecting a small subset of benchmark items to match full-benchmark evaluation of MLLMs at a fraction of the cost.</span><span class="lang-zh">一个由智能体驱动的框架，利用项目反应理论（IRT）建模试题难度与模型能力，动态选取少量评测题目，即可以极低成本达到媲美全量评测的多模态大模型评估效果。</span>
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2505.21389) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/IMNearth/AutoJudger)
