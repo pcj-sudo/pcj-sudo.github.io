@@ -26,6 +26,7 @@ redirect_from:
 [![1st Prize · Tencent Competition Domestic Finals](https://img.shields.io/badge/%F0%9F%8F%86_1st_Prize-Tencent_Competition_Domestic_Finals-gold)](https://tencentarena.com/aiarena/zh/match/open-competition-2024?tab=score)
 
 # 🔥 <span class="lang-en">News</span><span class="lang-zh">最新动态</span> {#news}
+- *2026.08*: <span class="lang-en">🎉 **[IACM-RL](https://arxiv.org/abs/2608.02110)** is released on arXiv.</span><span class="lang-zh">🎉 **[IACM-RL](https://arxiv.org/abs/2608.02110)** 已在 arXiv 发布。</span>
 - *2026.06*: <span class="lang-en">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** ranks **#1** on the **[Terminal-Bench 2.0 leaderboard](https://www.tbench.ai/leaderboard/terminal-bench/2.0)**!</span><span class="lang-zh">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** 登上 **[Terminal-Bench 2.0 排行榜](https://www.tbench.ai/leaderboard/terminal-bench/2.0)** 榜首！</span>
 - *2026.04*: <span class="lang-en">🎉 **[Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)** is released on arXiv.</span><span class="lang-zh">🎉 **[Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)** 已在 arXiv 发布。</span>
 - *2026.04*: <span class="lang-en">🎉 **[EVPO](https://arxiv.org/abs/2604.19485)** is released on arXiv.</span><span class="lang-zh">🎉 **[EVPO](https://arxiv.org/abs/2604.19485)** 已在 arXiv 发布。</span>
@@ -41,6 +42,20 @@ redirect_from:
 
 
 # 📝 <span class="lang-en">Publications</span><span class="lang-zh">论文发表</span> {#publications}
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/iacm_rl.png' alt="IACM-RL framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### IACM-RL: Intent-Aware Context Management and Reinforcement Learning for Complex Tool Invocation under Dynamic Intent Fluctuations
+
+Dingwei Zhu, Jiahan Li, **Chengjun Pan**, et al.
+
+- <span class="lang-en">IACM-RL addresses dynamic user-intent fluctuations in long-horizon tool invocation through DynamicIntent, a pipeline covering 13 fine-grained fluctuation scenarios, together with a five-dimensional diagnostic metric suite.</span><span class="lang-zh">IACM-RL 面向长程工具调用中的动态用户意图波动问题，提出覆盖 13 种细粒度波动场景的 DynamicIntent 数据构建流水线，以及一套五维诊断评测指标。</span>
+- <span class="lang-en">A BeliefState-based self-generated context manager tracks shifting goals and isolates stale parameters, while hierarchical intent-driven rewards and auxiliary losses internalize robust state tracking through reinforcement learning.</span><span class="lang-zh">基于 BeliefState 的自生成上下文管理器持续追踪变化的目标并隔离失效参数，同时利用分层意图奖励与辅助损失，通过强化学习将稳健的状态追踪能力内化到模型中。</span>
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2608.02110)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/ahe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
