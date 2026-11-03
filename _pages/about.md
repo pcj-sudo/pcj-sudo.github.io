@@ -26,7 +26,7 @@ redirect_from:
 [![1st Prize · Tencent Competition Domestic Finals](https://img.shields.io/badge/%F0%9F%8F%86_1st_Prize-Tencent_Competition_Domestic_Finals-gold)](https://tencentarena.com/aiarena/zh/match/open-competition-2024?tab=score)
 
 # 🔥 <span class="lang-en">News</span><span class="lang-zh">最新动态</span> {#news}
-- *2026.11*: <span class="lang-en">🎉 **[CoworkOS](https://arxiv.org/abs/2611.03178)**, our work on agent coworkers for real-world automation, is released on arXiv.</span><span class="lang-zh">🎉 我们面向真实世界自动化的智能体协作工作 **[CoworkOS](https://arxiv.org/abs/2611.03178)** 已在 arXiv 发布。</span>
+- *2026.11*: <span class="lang-en">🎉 **[CoworkOS](https://coworkos-ai.github.io/)**, our work on agent coworkers for real-world automation, is released on arXiv.</span><span class="lang-zh">🎉 我们面向真实世界自动化的智能体协作工作 **[CoworkOS](https://coworkos-ai.github.io/)** 已在 arXiv 发布。</span>
 - *2026.08*: <span class="lang-en">🎉 **[IACM-RL](https://arxiv.org/abs/2608.02110)** is released on arXiv.</span><span class="lang-zh">🎉 **[IACM-RL](https://arxiv.org/abs/2608.02110)** 已在 arXiv 发布。</span>
 - *2026.06*: <span class="lang-en">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** ranks **#1** on the **[Terminal-Bench 2.0 leaderboard](https://www.tbench.ai/leaderboard/terminal-bench/2.0)**!</span><span class="lang-zh">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** 登上 **[Terminal-Bench 2.0 排行榜](https://www.tbench.ai/leaderboard/terminal-bench/2.0)** 榜首！</span>
 - *2026.04*: <span class="lang-en">🎉 **[Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)** is released on arXiv.</span><span class="lang-zh">🎉 **[Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)** 已在 arXiv 发布。</span>
