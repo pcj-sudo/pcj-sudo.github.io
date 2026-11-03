@@ -47,13 +47,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><div style="aspect-ratio:792/535; overflow:hidden;"><img src='images/coworkos.png' alt="CoworkOS design vision, architecture, evaluation, and recursive self-improvement results" style="display:block; width:100%; height:auto;"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
-### [CoworkOS: Scaling Agent Coworkers for Real-world Automation](https://arxiv.org/abs/2611.03178)
+### CoworkOS: Scaling Agent Coworkers for Real-world Automation
 
-Jiajie Jin, Guanting Dong, **Chengjun Pan**, et al. · arXiv 2026
+Jiajie Jin, Guanting Dong, **Chengjun Pan**\*, et al.
 
 - <span class="lang-en">A long-horizon agent harness that separates model strategy from runtime execution management, with synchronous/asynchronous delegation, shared applications, hierarchical workspaces, and persistent semantic memory.</span><span class="lang-zh">面向长程任务的智能体 Harness，将模型策略与运行时执行管理解耦，支持同步 / 异步委派、共享应用、分层工作空间与持久语义记忆。</span>
 - <span class="lang-en">Evaluated across 12 benchmarks and 6 real-world application categories. In an RSI case study, five rounds of automated post-training improved the model's average score across eight benchmarks from 33.19 to 42.95.</span><span class="lang-zh">在 12 个基准与 6 类真实应用中验证；在 RSI 案例中，通过五轮自动后训练将模型在八项基准上的平均得分从 33.19 提升至 42.95。</span>
-- [Paper](https://arxiv.org/abs/2611.03178)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2611.03178) \| [![](https://img.shields.io/badge/Blog-fff)](https://mp.weixin.qq.com/s/oWPhyARCHxUaNkgF60Os7w) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/RUC-NLPIR/CoworkOS)
 
 </div>
 </div>
