@@ -44,7 +44,8 @@ redirect_from:
 
 # 📝 <span class="lang-en">Publications</span><span class="lang-zh">论文发表</span> {#publications}
 
-<div markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><div style="aspect-ratio:792/535; overflow:hidden;"><img src='images/coworkos.png' alt="CoworkOS design vision, architecture, evaluation, and recursive self-improvement results" style="display:block; width:100%; height:auto;"></div></div></div>
+<div class='paper-box-text' markdown="1">
 
 ### [CoworkOS: Scaling Agent Coworkers for Real-world Automation](https://arxiv.org/abs/2611.03178)
 
@@ -54,6 +55,7 @@ Jiajie Jin, Guanting Dong, **Chengjun Pan**, et al. · arXiv 2026
 - <span class="lang-en">Evaluated across 12 benchmarks and 6 real-world application categories. In an RSI case study, five rounds of automated post-training improved the model's average score across eight benchmarks from 33.19 to 42.95.</span><span class="lang-zh">在 12 个基准与 6 类真实应用中验证；在 RSI 案例中，通过五轮自动后训练将模型在八项基准上的平均得分从 33.19 提升至 42.95。</span>
 - [Paper](https://arxiv.org/abs/2611.03178)
 
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/iacm_rl.png' alt="IACM-RL framework" width="100%"></div></div>
