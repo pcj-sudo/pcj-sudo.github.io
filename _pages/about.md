@@ -26,6 +26,7 @@ redirect_from:
 [![1st Prize · Tencent Competition Domestic Finals](https://img.shields.io/badge/%F0%9F%8F%86_1st_Prize-Tencent_Competition_Domestic_Finals-gold)](https://tencentarena.com/aiarena/zh/match/open-competition-2024?tab=score)
 
 # 🔥 <span class="lang-en">News</span><span class="lang-zh">最新动态</span> {#news}
+- *2026.11*: <span class="lang-en">🎉 **[FinEvo](https://arxiv.org/abs/2611.28239)**, our work on recursive self-improvement for long-horizon financial modeling, is released on arXiv.</span><span class="lang-zh">🎉 我们面向长程金融建模的递归自我改进工作 **[FinEvo](https://arxiv.org/abs/2611.28239)** 已在 arXiv 发布。</span>
 - *2026.11*: <span class="lang-en">🎉 **[CoworkOS](https://coworkos-ai.github.io/)**, our work on agent coworkers for real-world automation, is released on arXiv.</span><span class="lang-zh">🎉 我们面向真实世界自动化的智能体协作工作 **[CoworkOS](https://coworkos-ai.github.io/)** 已在 arXiv 发布。</span>
 - *2026.08*: <span class="lang-en">🎉 **[IACM-RL](https://arxiv.org/abs/2608.02110)** is released on arXiv.</span><span class="lang-zh">🎉 **[IACM-RL](https://arxiv.org/abs/2608.02110)** 已在 arXiv 发布。</span>
 - *2026.06*: <span class="lang-en">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** ranks **#1** on the **[Terminal-Bench 2.0 leaderboard](https://www.tbench.ai/leaderboard/terminal-bench/2.0)**!</span><span class="lang-zh">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** 登上 **[Terminal-Bench 2.0 排行榜](https://www.tbench.ai/leaderboard/terminal-bench/2.0)** 榜首！</span>
@@ -43,6 +44,20 @@ redirect_from:
 
 
 # 📝 <span class="lang-en">Publications</span><span class="lang-zh">论文发表</span> {#publications}
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/finevo.svg' alt="FinEvo framework: financial model preparation, solver-guided challenge evolution, and experience-driven policy improvement" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### FinEvo: Recursive Self-Improvement for Long-Horizon Financial Modeling
+
+**Chengjun Pan**, Shichun Liu, Zekai Zhou, Shihan Dou, Jiahang Lin, Chengsong Huang, Dingwei Zhu, Tao Gui<small>†</small>
+
+- <span class="lang-en">A same-model self-evolution framework that prepares financial workbooks, evolves modeling and debugging challenges through solver-guided hardening and repair, and learns from its own tool-use experience with executable rewards.</span><span class="lang-zh">由同一模型完成金融工作簿准备、建模与纠错任务演化及策略学习的自演化框架：利用求解反馈加难与修复任务，并通过可执行奖励从自身的工具使用经验中学习。</span>
+- <span class="lang-en">With Qwen3.6-27B, whole-task success improves from 22.73% to 29.09% on held-out within-source tasks and from 13.13% to 19.19% on SpreadsheetBench 2 Financial, with gains extending to template filling, a task category absent from training.</span><span class="lang-zh">基于 Qwen3.6-27B，将同源留出任务的整任务成功率从 22.73% 提升至 29.09%，在 SpreadsheetBench 2 Financial 上从 13.13% 提升至 19.19%，并泛化到训练中未包含的模板填充任务。</span>
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2611.28239) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/pcj-sudo/FinEvo)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><div style="aspect-ratio:792/535; overflow:hidden;"><img src='images/coworkos.png' alt="CoworkOS design vision, architecture, evaluation, and recursive self-improvement results" style="display:block; width:100%; height:auto;"></div></div></div>
 <div class='paper-box-text' markdown="1">
