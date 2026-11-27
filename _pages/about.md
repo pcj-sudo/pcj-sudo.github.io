@@ -27,7 +27,10 @@ redirect_from:
 
 # 🔥 <span class="lang-en">News</span><span class="lang-zh">最新动态</span> {#news}
 - *2026.11*: <span class="lang-en">🎉 **[FinEvo](https://arxiv.org/abs/2611.28239)**, our work on recursive self-improvement for long-horizon financial modeling, is released on arXiv.</span><span class="lang-zh">🎉 我们面向长程金融建模的递归自我改进工作 **[FinEvo](https://arxiv.org/abs/2611.28239)** 已在 arXiv 发布。</span>
+- *2026.11*: <span class="lang-en">🎉 **[AHE-Beta](https://arxiv.org/abs/2611.24924)**, our work on requirement-centered evolution of agent harnesses, is released on arXiv.</span><span class="lang-zh">🎉 我们以用户需求为中心的智能体 Harness 演化工作 **[AHE-Beta](https://arxiv.org/abs/2611.24924)** 已在 arXiv 发布。</span>
+- *2026.11*: <span class="lang-en">🎉 **[Sage S2.1 Flash](https://arxiv.org/abs/2611.21072)**, our scientific multimodal model for reasoning and interactive agent workflows, is released.</span><span class="lang-zh">🎉 我们面向科学推理与交互式智能体工作流的科学多模态模型 **[Sage S2.1 Flash](https://arxiv.org/abs/2611.21072)** 已发布。</span>
 - *2026.11*: <span class="lang-en">🎉 **[CoworkOS](https://coworkos-ai.github.io/)**, our work on agent coworkers for real-world automation, is released on arXiv.</span><span class="lang-zh">🎉 我们面向真实世界自动化的智能体协作工作 **[CoworkOS](https://coworkos-ai.github.io/)** 已在 arXiv 发布。</span>
+- *2026.09*: <span class="lang-en">🎉 **[Atria Dawn](https://arxiv.org/abs/2609.15818)**, our work on agentic models for scientific research and engineering, is released on arXiv.</span><span class="lang-zh">🎉 我们面向科研与工程工作流的智能体模型工作 **[Atria Dawn](https://arxiv.org/abs/2609.15818)** 已在 arXiv 发布。</span>
 - *2026.08*: <span class="lang-en">🎉 **[IACM-RL](https://arxiv.org/abs/2608.02110)** is released on arXiv.</span><span class="lang-zh">🎉 **[IACM-RL](https://arxiv.org/abs/2608.02110)** 已在 arXiv 发布。</span>
 - *2026.06*: <span class="lang-en">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** ranks **#1** on the **[Terminal-Bench 2.0 leaderboard](https://www.tbench.ai/leaderboard/terminal-bench/2.0)**!</span><span class="lang-zh">🏆 **[AHE](https://arxiv.org/abs/2604.25850)** 登上 **[Terminal-Bench 2.0 排行榜](https://www.tbench.ai/leaderboard/terminal-bench/2.0)** 榜首！</span>
 - *2026.04*: <span class="lang-en">🎉 **[Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)** is released on arXiv.</span><span class="lang-zh">🎉 **[Agentic Harness Engineering (AHE)](https://arxiv.org/abs/2604.25850)** 已在 arXiv 发布。</span>
@@ -59,6 +62,34 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/ahe_beta.png' alt="AHE-Beta overview: user-driven evaluation, team-based modification, and requirement-driven selection" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses
+
+Jiahang Lin\*, Jiahao Chen\*, Yiding Wang\*, Shichun Liu, **Chengjun Pan**, Shihan Dou, Honglin Guo, Yuyang Hu, Changhao Jiang, Zhenhua Han, Hang Yan, Qi Zhang, Tao Gui<small>†</small>, Xuanjing Huang<small>†</small>
+
+- <span class="lang-en">AHE-Beta evolves agent harnesses around a fixed model through user-driven evaluation, team-based modification, and requirement-driven selection. Simulated users surface explicit and implicit needs, and a multi-agent engineering team implements general fixes selected by verified requirements rather than benchmark scores.</span><span class="lang-zh">AHE-Beta 在固定模型的前提下，通过用户驱动评估、团队协作修改与需求驱动筛选来演化智能体 Harness。模拟用户挖掘显式与隐式需求，多智能体工程团队实现通用改进，并依据经验证的需求而非基准分数筛选修改。</span>
+- <span class="lang-en">On held-out tasks, pass@1 improves from 21.9% to 33.3% with 40.8% fewer tokens than Base Harness. In a blind human A/B test, users prefer AHE-Beta in 31 of 48 valid pairs and rate it higher on all five dimensions.</span><span class="lang-zh">在留出任务上，相比 Base Harness，pass@1 从 21.9% 提升至 33.3%，同时减少 40.8% 的 token 消耗。在真人盲测中，用户在 48 组有效对比中的 31 组偏好 AHE-Beta，且在全部五个维度上给予更高评分。</span>
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2611.24924) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Curry09/AHE-Beta)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/sage_s21.png' alt="Sage S2.1 Flash architecture: scientific multimodal perception, general-purpose tasks, and scientific tasks" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Sage S2.1 Flash Technical Report
+
+Kun Cai, Haodong Chen, Guangran Cheng, ..., **Chengjun Pan**, et al.
+
+- <span class="lang-en">A 320B-parameter mixture-of-experts model that integrates scientific multimodal perception with reasoning and interactive agent workflows. Sage Sci-Perception encodes molecular graphs, biological sequences, and spectra alongside text and images, while verifiable environments develop tool-use, search, coding, and scientific software capabilities.</span><span class="lang-zh">一个拥有 320B 参数的混合专家模型，将科学多模态感知与推理、交互式智能体工作流相结合。Sage Sci-Perception 将分子图、生物序列与光谱表征和文本、图像共同输入模型，并通过可验证环境培养工具使用、搜索、编程及科学软件能力。</span>
+- <span class="lang-en">Evaluated on 33 benchmarks across seven domains; leads the primary comparison on OfficeQA Pro (72.2), MLE-bench Lite (90.3 HumanRank), Harvey LAB, and SpreadsheetBench 2, with competitive desktop and browser performance.</span><span class="lang-zh">在七个领域的 33 项基准上评估，在主要对比中于 OfficeQA Pro（72.2）、MLE-bench Lite（90.3 HumanRank）、Harvey LAB 与 SpreadsheetBench 2 排名第一，并在桌面和浏览器任务上展现出竞争力。</span>
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2611.21072) \| [![](https://img.shields.io/badge/Project-fff)](https://internlm.github.io/Sage-S2.1-Flash) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/InternLM/Sage-S2.1-Flash)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><div style="aspect-ratio:792/535; overflow:hidden;"><img src='images/coworkos.png' alt="CoworkOS design vision, architecture, evaluation, and recursive self-improvement results" style="display:block; width:100%; height:auto;"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -69,6 +100,20 @@ Jiajie Jin, Guanting Dong, **Chengjun Pan**\*, et al.
 - <span class="lang-en">A long-horizon agent harness that separates model strategy from runtime execution management, with synchronous/asynchronous delegation, shared applications, hierarchical workspaces, and persistent semantic memory.</span><span class="lang-zh">面向长程任务的智能体 Harness，将模型策略与运行时执行管理解耦，支持同步 / 异步委派、共享应用、分层工作空间与持久语义记忆。</span>
 - <span class="lang-en">Evaluated across 12 benchmarks and 6 real-world application categories. In an RSI case study, five rounds of automated post-training improved the model's average score across eight benchmarks from 33.19 to 42.95.</span><span class="lang-zh">在 12 个基准与 6 类真实应用中验证；在 RSI 案例中，通过五轮自动后训练将模型在八项基准上的平均得分从 33.19 提升至 42.95。</span>
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2611.03178) \| [![](https://img.shields.io/badge/Blog-fff)](https://mp.weixin.qq.com/s/oWPhyARCHxUaNkgF60Os7w) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/RUC-NLPIR/CoworkOS)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/atria_dawn.png' alt="Atria Dawn Preview compared with frontier models across research, engineering, and digital-work benchmarks" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Atria Dawn: The Dawn of Agentic Superintelligence
+
+Honglin Guo, Tao Gui, Kun Cai, ..., **Chengjun Pan**, et al.
+
+- <span class="lang-en">Atria Dawn Preview is an agentic language model for scientific research and engineering workflows, trained through a Verifiable Experience Pipeline that connects tool-mediated interactions to executable environments and externally verified outcomes.</span><span class="lang-zh">Atria Dawn Preview 是面向科研与工程工作流的智能体语言模型，通过可验证经验流水线（Verifiable Experience Pipeline）训练，将工具交互与可执行环境及外部验证结果连接起来。</span>
+- <span class="lang-en">Competitive with frontier agents across 16 benchmarks, with the highest reported score on five. A study of 769 task records from 56 participants examines the shift from task execution to human–AI research partnership.</span><span class="lang-zh">在 16 项基准上展现出与前沿智能体竞争的能力，并在其中五项取得已报告的最高分；通过分析 56 名参与者的 769 条任务记录，研究人机协作从任务执行向科研伙伴关系的转变。</span>
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2609.15818) \| [![](https://img.shields.io/badge/Project-fff?logo=github&logoColor=000)](https://github.com/atria-asi/Atria-Dawn)
 
 </div>
 </div>
